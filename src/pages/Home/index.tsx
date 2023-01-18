@@ -41,7 +41,7 @@ export function Home() {
       <CopyButton>
         {`border-radius: ${validateValue(topLeft)} ${validateValue(
           topRight
-        )} ${validateValue(bottomLeft)} ${validateValue(bottomRight)};`}
+        )} ${validateValue(bottomRight)} ${validateValue(bottomLeft)};`}
       </CopyButton>
 
       <BorderRadius>
